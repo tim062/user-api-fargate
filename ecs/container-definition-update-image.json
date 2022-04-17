@@ -4,7 +4,7 @@
         "logDriver": "awslogs",
         "options": {
           "awslogs-group": "ch-dev-log-group",
-          "awslogs-region": "eu-west-1",
+          "awslogs-region": "ap-southeast-1",
           "awslogs-stream-prefix": "ecs"
         }
       },
